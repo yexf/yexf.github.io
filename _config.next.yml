@@ -1,0 +1,7 @@
+# NexT 主题自定义配置
+# 此文件会与 node_modules/hexo-theme-next/_config.yml 默认配置合并（本站优先）
+# 文档: https://theme-next.org/docs/theme-settings/
+
+sidebar:
+  # 侧边栏默认显示: post=仅文章页 / always=所有页面
+  display: always
