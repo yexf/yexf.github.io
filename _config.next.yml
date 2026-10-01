@@ -8,6 +8,7 @@ menu:
 
 # 侧边栏社交链接（显示在作者信息下方）
 social:
+  归档: /archives/ || fa fa-archive
   GitHub: https://github.com/yexf || fab fa-github
   博客: https://blog.yexf.eu.cc/ || fa fa-globe
 
