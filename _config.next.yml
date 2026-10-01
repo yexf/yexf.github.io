@@ -17,6 +17,10 @@ avatar:
   url: /images/avatar.png
   rounded: true
 
+# 自定义样式文件（覆盖主题默认样式）
+custom_file_path:
+  style: source/_data/styles.styl
+
 sidebar:
   # 侧边栏默认显示: post=仅文章页 / always=所有页面
   display: always
